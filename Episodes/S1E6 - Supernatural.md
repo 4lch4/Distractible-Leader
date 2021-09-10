@@ -21,6 +21,8 @@ description: "Mark hosts as Bob and Wade trade scary stories. For Bob, it's a st
   - **[[Bob]]** - **`Seasons don't fear the Reaper, they fear the Titties`**
   - **[[Wade]]** - **`Millford Chainsaw Massacre`**
 
+## Points Given Out
+
 @5:22 +1 point for Sucking better goes to Bob
 
 @18:59 +1 point for Flabbergasted Phantism goes to Bob
@@ -32,7 +34,5 @@ description: "Mark hosts as Bob and Wade trade scary stories. For Bob, it's a st
 @46:44 -2 points from Wade because Story is fiction.
 
 @51:03 Wade announced the winner and given all Bob's points
-
-  
 
 Wade wins

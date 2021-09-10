@@ -21,6 +21,8 @@ description: "In front of a \"live\" Discord audience, the guys discuss synchron
   - **[[Bob]]** - **`No Title`**
   - **[[Wade]]** - **`Out of the Semi into the Synchronicity`**
 
+## Points Given Out
+
 @6:30 +1 point to Wade for being 1st on the draw
 
 @7:01 +1 point for a strong title to Wade
@@ -38,7 +40,5 @@ description: "In front of a \"live\" Discord audience, the guys discuss synchron
 @22:02 +1 point to Bob for deep discussion
 
 @57:15 +2 points for Bob because Mark can
-
-  
 
 Bob is the Winner

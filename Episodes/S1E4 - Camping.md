@@ -21,6 +21,8 @@ description: "Mark recounts the legend of an insane creature from the Rocky Moun
   - **[[Bob]]** - **`Out of the river, and into the axe murderers den`**
   - **[[Mark]]** - **`The day the mountain swallowed`**
 
+## Points Given Out
+
 @2:55 + bonus points to Mark for having a good question.
 
 @3:43 - Mark loses bonus points for not being friends comment
@@ -46,7 +48,5 @@ description: "Mark recounts the legend of an insane creature from the Rocky Moun
 @50:40 +400 points for Mark for making Wade google lube
 
 @50:47 -120 points for telling Wade to shut up a few times.
-
-  
 
 Bob is the winner

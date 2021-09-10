@@ -21,6 +21,8 @@ description: "Bob hosts, hoping Mark and Wade will discuss how they want their f
   - **[[Mark]]** - **`Santa's Big Goodbye`**
   - **[[Wade]]** - **`Jackass Funeral`**
 
+## Points Given Out
+
 @25:54 + some points for ripping off a story awarded to Wade
 
 @25:58 + some points for explosions and action packed images in Bob's mind awarded to Wade

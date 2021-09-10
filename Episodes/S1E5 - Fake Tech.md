@@ -21,6 +21,8 @@ description: "Bob prompts a discussion about technology that blurs the lines of 
   - **[[Mark]]** - **`STFU`**
   - **[[Wade]]** - **`Biggest Dumbest Squeeze`**
 
+## Points Given Out
+
 @12:15 +? For Wade for honesty
 
 @12:54 +2 points for Wade for patience
@@ -32,7 +34,5 @@ description: "Bob prompts a discussion about technology that blurs the lines of 
 @51:27 +400 points to Wade for Quality of invention
 
 @51:47 +75 points to Wade for pick of PS2
-
-  
 
 Mark is the winner

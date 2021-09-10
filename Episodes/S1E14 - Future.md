@@ -21,6 +21,8 @@ description: "This week the guys talk about the future: expectations vs. reality
   - **[[Bob]]**
   - **[[Mark]]**
 
+## Points Given Out
+
 @2:56 +10 points for Mark for Flattery
 
 @3:04 +1 point for Mark because Bob said Wade couldn't give points yet.
@@ -50,7 +52,5 @@ description: "This week the guys talk about the future: expectations vs. reality
 @62:42 Wade tells Bob he has 1 million points
 
 @62:46 +3 million points to Mark because Wade can do that
-
-  
 
 Mark wins

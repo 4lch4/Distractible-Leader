@@ -27,7 +27,7 @@ description: "Bob hosts as Wade and Mark make their predictions on what the next
 
 [[Wade]]- The information super hugway
 
-  
+## Points Given Out
 
 +1 point for Wade for intriguing @19:34
 
@@ -40,7 +40,5 @@ description: "Bob hosts as Wade and Mark make their predictions on what the next
 +3 points for Wade, Bob appreciates Wades question @36:04
 
 +5 points for Wade for having Bold ideas @48:14
-
-  
 
 Winner is Wade

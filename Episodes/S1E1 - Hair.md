@@ -21,7 +21,7 @@ description: "Today the guys discuss all things hair (and the lack there of)! Th
     - **[[Bob]]** - **`Dip It`**
     - **[[Mark]]** - **`Dip It And Rip It`**
 
-## Points
+## Points Given Out
 
 1. Mark & Bob
     1. +250 Points

@@ -21,6 +21,8 @@ description: "The guys trade stories about how dumb kids can be: from inventing 
   - **[[Bob]]** - **`The hurt in the woods & yard darts should not exist`**
   - **[[Wade]]** - **`?`**
 
+## Points Given Out
+
 @1:24 +10 points not specified to who both Wade and Bob said Mark will always win if they are judge
 
 @14:41 +5 points Bob for story title, and intrigue.

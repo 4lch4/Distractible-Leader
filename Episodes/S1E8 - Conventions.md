@@ -21,13 +21,13 @@ description: "On this episode of the pod, the guys get nostalgic for conventions
   - **[[Mark]]** - **`There will be Balls`**
   - **[[Wade]]** - **`A con job, that's just show biz`**
 
+## Points Given Out
+
 @19:45 +100 to Mark for References
 
 @19:51 +100 to Mark for Bag of Money
 
 @19:53 +300 to Mark for admitting to peeing in a ball pit
-
-  
 
 @41:47 +200 to Wade for a Quality Title
 
@@ -42,8 +42,5 @@ description: "On this episode of the pod, the guys get nostalgic for conventions
 @44:18 +75 to Wade for Resonance
 
 @45:46 +25 to Wade for Sincerity
-
-  
-  
 
 Wade Wins

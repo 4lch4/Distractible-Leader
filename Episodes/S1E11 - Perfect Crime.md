@@ -22,6 +22,8 @@ description: "This week Mark, Wade and Bob answer the age-old hypothetical quest
   - **[[Wade]]** - **`My player 2`**
     - Second title: **`The Park Wettening. Aka Moistening of the park`**
 
+## Points Given Out
+
 @25:17 x number of points awarded to Mark for a great story about Smithers
 
 @55:42 + points for Wade for his Story

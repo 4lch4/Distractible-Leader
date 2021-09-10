@@ -21,6 +21,8 @@ description: "Wade hosts as Bob and Mark share some classic “hold my beer” m
   - **[[Bob]]** - **`Longest, Codest, Shittiest, Night`**
   - **[[Mark]]** - **`The day I broke my ass`**
 
+## Points Given Out
+
 @10:10 +77 to Mark for being relatable
 
 @10:30 +14 to Bob for Honesty
@@ -28,7 +30,5 @@ description: "Wade hosts as Bob and Mark share some classic “hold my beer” m
 @53:41 +1000 to Bob for telling Stories good
 
 @58:01 +938 to Mark because Wade wanted him to win by 1 point.
-
-  
 
 Mark Wins

@@ -22,7 +22,7 @@ description: "Mark hosts while Wade and Bob one-up each other's concepts for eli
     - **[[Bob]]** - **`Rub, Rub, Rub, Rub, Rub, Rub, Rub`**
       - 7 Rubs
 
-## Points
+## Points Given Out
 
 1. Wade
     1. +5
