@@ -13,15 +13,19 @@ description: "Bob hosts as Wade and Mark make their predictions on what the next
 
 [[S1E2 - Body Odor|← Previous Episode]] | [[S1E4 - Camping|Next Episode →]]
 
-## Roles
+## Roles & Titles
 
-31st of May 2021
+- Host
+  - **[[Bob]]**
+- Presenters
+  - **[[Mark]]** - **`You spin me right round baby right round`**
+  - **[[Wade]]** - **`The information super hugway`**
 
-Bob- Host
+[[Bob]]- Host
 
-Mark- You spin me right round baby right round
+[[Mark]]- 
 
-Wade- The information super hugway
+[[Wade]]- The information super hugway
 
   
 

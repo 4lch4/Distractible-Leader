@@ -13,32 +13,16 @@ description: "Bob hosts, hoping Mark and Wade will discuss how they want their f
 
 [[S1E12 - Kids Are Stupid|← Previous Episode]] | [[S1E14 - Future|Next Episode →]]
 
-9th of August 2021
+## Roles & Titles
 
-  
-
-Bob- Judge
-
-  
-
-Mark- Santa's Big Goodbye
-
-  
-
-Wade- Jackass Funeral
-
-  
-
-___
-
-  
+- Host
+  - **[[Bob]]**
+- Presenters
+  - **[[Mark]]** - **`Santa's Big Goodbye`**
+  - **[[Wade]]** - **`Jackass Funeral`**
 
 @25:54 + some points for ripping off a story awarded to Wade
 
-  
-
 @25:58 + some points for explosions and action packed images in Bob's mind awarded to Wade
-
-  
 
 Wade Wins

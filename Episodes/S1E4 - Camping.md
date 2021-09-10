@@ -13,19 +13,13 @@ description: "Mark recounts the legend of an insane creature from the Rocky Moun
 
 [[S1E3 - Transportation|← Previous Episode]] | [[S1E5 - Fake Tech|Next Episode →]]
 
-7th of June 2021
+## Roles & Titles
 
-  
-
-Wade-Judge
-
-Mark- The day the mountain swallowed
-
-Bob- out of the river, and into the axe murderers den.
-
-_
-
-  
+- Host
+  - **[[]]**
+- Presenters
+  - **[[Bob]]** - **`Out of the river, and into the axe murderers den`**
+  - **[[Mark]]** - **`The day the mountain swallowed`**
 
 @2:55 + bonus points to Mark for having a good question.
 

@@ -13,21 +13,13 @@ description: "Wade hosts as Bob and Mark share some classic “hold my beer” m
 
 [[S1E8 - Conventions|← Previous Episode]] | [[S1E10 - Synchronicity|Next Episode →]]
 
-12th of July 2021
+## Roles & Titles
 
-  
-
-Wade - Judge
-
-  
-
-Mark- The day I broke my Ass.
-
-Bob- Longest, Coldest, Shittiest, Night!
-
-__
-
-  
+- Host
+  - **[[Wade]]**
+- Presenters
+  - **[[Bob]]** - **`Longest, Codest, Shittiest, Night`**
+  - **[[Mark]]** - **`The day I broke my ass`**
 
 @10:10 +77 to Mark for being relatable
 

@@ -4,7 +4,7 @@ title: 'Perfect Crime'
 host: 'Bob'
 presenters: ['Mark', 'Wade']
 winner: 'Mark'
-description: "This week Mark, Wade and Bob answer the age-old hypothetical question: what is the "perfect crime?""
+description: "This week Mark, Wade and Bob answer the age-old hypothetical question: what is the \"perfect crime?\""
 ---
 
 # Perfect Crime
@@ -13,23 +13,14 @@ description: "This week Mark, Wade and Bob answer the age-old hypothetical quest
 
 [[S1E10 - Synchronicity|← Previous Episode]] | [[S1E12 - Kids Are Stupid|Next Episode →]]
 
-26th of July 2021
+## Roles & Titles
 
-  
-
-Bob- Judge
-
-  
-
-Mark- I did it for Love.
-
-Wade- My player 2
-
-Second title: The Park Wettening. Aka Moistening of the park.
-
-__
-
-  
+- Host
+  - **[[Bob]]**
+- Presenters
+  - **[[Mark]]** - **`I did it for Love`**
+  - **[[Wade]]** - **`My player 2`**
+    - Second title: **`The Park Wettening. Aka Moistening of the park`**
 
 @25:17 x number of points awarded to Mark for a great story about Smithers
 
@@ -44,7 +35,5 @@ __
 @60:32 Some points awarded to Wade for not threatening to kill Wade.
 
 Final tally of definitely some numbers Mark wins.
-
-  
 
 Mark - winner

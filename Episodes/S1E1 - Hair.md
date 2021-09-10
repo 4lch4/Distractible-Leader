@@ -13,18 +13,13 @@ description: "Today the guys discuss all things hair (and the lack there of)! Th
 
 [[S1E2 - Body Odor|Next Episode →]]
 
-## Roles
+## Roles & Titles
 
 - Host
     - **[[Wade]]**
 - Presenters
-    - **[[Mark]]**
-    - **[[Bob]]**
-
-## Titles
-
-- [[Bob]]: **Dip It**
-- [[Mark]]: **Dip It And Rip It**
+    - **[[Bob]]** - **`Dip It`**
+    - **[[Mark]]** - **`Dip It And Rip It`**
 
 ## Points
 

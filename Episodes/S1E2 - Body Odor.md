@@ -13,19 +13,14 @@ description: "Mark hosts while Wade and Bob one-up each other's concepts for eli
 
 [[S1E1 - Hair|← Previous Episode]] | [[S1E3 - Transportation|Next Episode →]]
 
-## Roles
+## Roles & Titles
 
 - Host
     - **[[Mark]]**
 - Presenters
-    - **[[Wade]]**
-    - **[[Bob]]**
-
-## Titles
-
-- [[Wade]]: No Body Odor For You
-- [[Bob]]: Rub, Rub, Rub, Rub, Rub, Rub, Rub
-    - 7 Rubs
+    - **[[Wade]]** - **`No Body Odor For You`**
+    - **[[Bob]]** - **`Rub, Rub, Rub, Rub, Rub, Rub, Rub`**
+      - 7 Rubs
 
 ## Points
 

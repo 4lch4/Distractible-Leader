@@ -4,7 +4,7 @@ title: 'Synchronicity'
 host: 'Mark'
 presenters: ['Bob', 'Wade']
 winner: 'Bob'
-description: "In front of a "live" Discord audience, the guys discuss synchronicities, déjà vu, mind-reading, and hive minds."
+description: "In front of a \"live\" Discord audience, the guys discuss synchronicities, déjà vu, mind-reading, and hive minds."
 ---
 
 # Synchronicity
@@ -13,21 +13,13 @@ description: "In front of a "live" Discord audience, the guys discuss synchronic
 
 [[S1E9 - Hold My Beer|← Previous Episode]] | [[S1E11 - Perfect Crime|Next Episode →]]
 
-19th of July 2021
+## Roles & Titles
 
-  
-
-Mark- Judge
-
-  
-
-Wade - Out of the Semi into the Synchronicity
-
-Bob - No title
-
-__
-
-  
+- Host
+  - **[[Mark]]**
+- Presenters
+  - **[[Bob]]** - **`No Title`**
+  - **[[Wade]]** - **`Out of the Semi into the Synchronicity`**
 
 @6:30 +1 point to Wade for being 1st on the draw
 

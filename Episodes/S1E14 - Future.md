@@ -13,55 +13,29 @@ description: "This week the guys talk about the future: expectations vs. reality
 
 [[S1E13 - Happy Funerals|← Previous Episode]] %%| [[S1E3 - Transportation|Next Episode →]]%%
 
-16th of August 2021
+## Roles & Titles
 
-  
-
-Wade- Judge
-
-  
-
-Mark- No particular title.
-
-  
-
-Bob-
-
-___
-
-  
+- Host
+  - **[[Wade]]**
+- Presenters
+  - **[[Bob]]**
+  - **[[Mark]]**
 
 @2:56 +10 points for Mark for Flattery
 
-  
-
 @3:04 +1 point for Mark because Bob said Wade couldn't give points yet.
-
-  
 
 @3:12 +12 points for Bob because Wade said so
 
-  
-
 @3:19 double previous points making it 29 because Bob said to hurt him.
-
-  
 
 @3:29 +30 points to Mark so he can remain somewhere higher than Bob
 
-  
-
 @5:35 +10 points to Bob for giving great information.
-
-  
 
 @5:42 -5 points for Bob for telling Wade like it is.
 
-  
-
 @5:58 +50 points to Mark for being agreeable
-
-  
 
 @62:28 +300,000 points to Mark
 

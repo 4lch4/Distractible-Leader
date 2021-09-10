@@ -13,23 +13,13 @@ description: "Mark hosts as Bob and Wade trade scary stories. For Bob, it's a st
 
 [[S1E5 - Fake Tech|← Previous Episode]] | [[S1E7 - Bob's Fridge|Next Episode →]]
 
-21st of June 2021
+## Roles & Titles
 
-  
-
-Mark- Judge
-
-  
-
-Bob- Seasons don't fear the Reaper, they fear the Titties.
-
-  
-
-Wade- Millford Chainsaw Massacre.
-
-_
-
-  
+- Host
+  - **[[Mark]]**
+- Presenters
+  - **[[Bob]]** - **`Seasons don't fear the Reaper, they fear the Titties`**
+  - **[[Wade]]** - **`Millford Chainsaw Massacre`**
 
 @5:22 +1 point for Sucking better goes to Bob
 

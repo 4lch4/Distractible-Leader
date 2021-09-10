@@ -4,7 +4,7 @@ title: 'Conventions'
 host: 'Bob'
 presenters: ['Mark', 'Wade']
 winner: 'Wade'
-description: "On this episode of the pod, the guys get nostalgic for conventions and all the good and bad that come with them. From notable failed attempts, to bizarre themes (like "pizza" and "baby"), to post-COVID predictions, conventions hold a special place in Mark, Bob, and Wade's hearts."
+description: "On this episode of the pod, the guys get nostalgic for conventions and all the good and bad that come with them. From notable failed attempts, to bizarre themes (like \"pizza\" and \"baby\"), to post-COVID predictions, conventions hold a special place in Mark, Bob, and Wade's hearts."
 ---
 
 # Conventions
@@ -13,19 +13,13 @@ description: "On this episode of the pod, the guys get nostalgic for conventions
 
 [[S1E7 - Bob's Fridge|← Previous Episode]] | [[S1E9 - Hold My Beer|Next Episode →]]
 
-5th of July 2021
+## Roles & Titles
 
-  
-
-Bob-Judge
-
-  
-
-Mark- There will be Balls
-
-Wade- A con job, that's just show Biz
-
-  
+- Host
+  - **[[Bob]]**
+- Presenters
+  - **[[Mark]]** - **`There will be Balls`**
+  - **[[Wade]]** - **`A con job, that's just show biz`**
 
 @19:45 +100 to Mark for References
 

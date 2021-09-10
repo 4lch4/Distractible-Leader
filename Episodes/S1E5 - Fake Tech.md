@@ -13,19 +13,13 @@ description: "Bob prompts a discussion about technology that blurs the lines of 
 
 [[S1E4 - Camping|← Previous Episode]] | [[S1E6 - Supernatural|Next Episode →]]
 
-14th of June 2021
+## Roles & Titles
 
-  
-
-Bob-Judge
-
-Mark- STFU
-
-Wade- Biggest Dumbest Squeeze
-
-_
-
-  
+- Host
+  - **[[Bob]]**
+- Presenters
+  - **[[Mark]]** - **`STFU`**
+  - **[[Wade]]** - **`Biggest Dumbest Squeeze`**
 
 @12:15 +? For Wade for honesty
 

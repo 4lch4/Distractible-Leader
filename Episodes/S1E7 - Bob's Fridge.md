@@ -13,15 +13,13 @@ description: "Bob RAGES while telling a story about trying to get a new fridge i
 
 [[S1E6 - Supernatural|← Previous Episode]] | [[S1E8 - Conventions|Next Episode →]]
 
-Wade- Judge
+## Roles & Titles
 
-  
-
-Mark- Concedes
-
-Bob- Bob's Fridge
-
-  
+- Host
+  - **[[Wade]]**
+- Presenters
+  - **[[Bob]]** - **`Bob's Fridge`**
+  - **[[Mark]]** - **`Concedes`**
 
 @50:42 +69 points to Bob for his Pain
 
