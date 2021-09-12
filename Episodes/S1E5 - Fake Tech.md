@@ -4,7 +4,7 @@ title: 'Fake Tech'
 host: 'Bob'
 presenters: ['Mark', 'Wade']
 winner: 'Mark'
-description: "Bob prompts a discussion about technology that blurs the lines of reality in this hilarious episode full of gadget scams, 00’s game nostalgia, and if the mute button could exist for real life."
+description: 'Bob prompts a discussion about technology that blurs the lines of reality in this hilarious episode full of gadget scams, 00’s game nostalgia, and if the mute button could exist for real life.'
 ---
 
 # Fake Tech

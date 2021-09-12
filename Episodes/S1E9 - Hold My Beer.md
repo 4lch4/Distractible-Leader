@@ -4,7 +4,7 @@ title: 'Hold My Beer'
 host: 'Wade'
 presenters: ['Bob', 'Mark']
 winner: 'Mark'
-description: "Wade hosts as Bob and Mark share some classic “hold my beer” moments from their college days…"
+description: 'Wade hosts as Bob and Mark share some classic “hold my beer” moments from their college days…'
 ---
 
 # Hold My Beer

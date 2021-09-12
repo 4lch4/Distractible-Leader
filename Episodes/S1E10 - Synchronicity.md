@@ -4,7 +4,7 @@ title: 'Synchronicity'
 host: 'Mark'
 presenters: ['Bob', 'Wade']
 winner: 'Bob'
-description: "In front of a \"live\" Discord audience, the guys discuss synchronicities, déjà vu, mind-reading, and hive minds."
+description: 'In front of a "live" Discord audience, the guys discuss synchronicities, déjà vu, mind-reading, and hive minds.'
 ---
 
 # Synchronicity

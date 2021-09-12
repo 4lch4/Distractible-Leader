@@ -4,7 +4,7 @@ title: "Bob's Fridge"
 host: 'Wade'
 presenters: ['Bob', 'Mark']
 winner: 'Bob'
-description: "Bob RAGES while telling a story about trying to get a new fridge installed."
+description: 'Bob RAGES while telling a story about trying to get a new fridge installed.'
 ---
 
 # Bob's Fridge

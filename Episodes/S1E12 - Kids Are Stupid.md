@@ -4,7 +4,7 @@ title: 'Kids Are Stupid'
 host: 'Mark'
 presenters: ['Bob', 'Wade']
 winner: 'Bob'
-description: "The guys trade stories about how dumb kids can be: from inventing stupid games, to playing with banned toys, to somehow making it through all of it without a scratch."
+description: 'The guys trade stories about how dumb kids can be: from inventing stupid games, to playing with banned toys, to somehow making it through all of it without a scratch.'
 ---
 
 # Kids Are stupid
@@ -41,7 +41,7 @@ description: "The guys trade stories about how dumb kids can be: from inventing 
 
 @62:03 +1 point to Bob for 2nd Story
 
-@62:10 +3 points to Wade because he still gets them 
+@62:10 +3 points to Wade because he still gets them
 
 @62:11 +1 point to Bob because something he said got Mark to the dart blaster
 

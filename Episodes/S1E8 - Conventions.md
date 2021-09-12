@@ -4,7 +4,7 @@ title: 'Conventions'
 host: 'Bob'
 presenters: ['Mark', 'Wade']
 winner: 'Wade'
-description: "On this episode of the pod, the guys get nostalgic for conventions and all the good and bad that come with them. From notable failed attempts, to bizarre themes (like \"pizza\" and \"baby\"), to post-COVID predictions, conventions hold a special place in Mark, Bob, and Wade's hearts."
+description: 'On this episode of the pod, the guys get nostalgic for conventions and all the good and bad that come with them. From notable failed attempts, to bizarre themes (like "pizza" and "baby"), to post-COVID predictions, conventions hold a special place in Mark, Bob, and Wade''s hearts.'
 ---
 
 # Conventions

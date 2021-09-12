@@ -4,7 +4,7 @@ title: 'Transportation'
 host: 'Bob'
 presenters: ['Mark', 'Wade']
 winner: 'Wade'
-description: "Bob hosts as Wade and Mark make their predictions on what the next major form of transportation will be, taking many wrong turns in the process..."
+description: 'Bob hosts as Wade and Mark make their predictions on what the next major form of transportation will be, taking many wrong turns in the process...'
 ---
 
 # Transportation
@@ -23,7 +23,7 @@ description: "Bob hosts as Wade and Mark make their predictions on what the next
 
 [[Bob]]- Host
 
-[[Mark]]- 
+[[Mark]]-
 
 [[Wade]]- The information super hugway
 

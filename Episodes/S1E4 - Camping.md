@@ -4,7 +4,7 @@ title: 'Camping'
 host: 'Wade'
 presenters: ['Bob', 'Mark']
 winner: 'Bob'
-description: "Mark recounts the legend of an insane creature from the Rocky Mountains. Bob explains how his formative kayaking trip almost ended like a horror movie, and Wade...well, Wade just does what Wade does..."
+description: 'Mark recounts the legend of an insane creature from the Rocky Mountains. Bob explains how his formative kayaking trip almost ended like a horror movie, and Wade...well, Wade just does what Wade does...'
 ---
 
 # Camping

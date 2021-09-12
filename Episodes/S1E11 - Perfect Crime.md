@@ -4,7 +4,7 @@ title: 'Perfect Crime'
 host: 'Bob'
 presenters: ['Mark', 'Wade']
 winner: 'Mark'
-description: "This week Mark, Wade and Bob answer the age-old hypothetical question: what is the \"perfect crime?\""
+description: 'This week Mark, Wade and Bob answer the age-old hypothetical question: what is the "perfect crime?"'
 ---
 
 # Perfect Crime

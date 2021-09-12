@@ -4,7 +4,7 @@ title: 'Future'
 host: 'Wade'
 presenters: ['Bob', 'Mark']
 winner: 'Mark'
-description: "This week the guys talk about the future: expectations vs. reality. What did people in the past predict the future would be like? Were they accurate? Will we be accurate if we attempt to do the same…?"
+description: 'This week the guys talk about the future: expectations vs. reality. What did people in the past predict the future would be like? Were they accurate? Will we be accurate if we attempt to do the same…?'
 ---
 
 # Future
